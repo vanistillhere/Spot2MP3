@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ytmusic-api": "^5.3.0"
+  },
+  "name": "spot2mp3",
+  "version": "0.1.0",
+  "description": "A NodeJS Script to convert your Spotify Playlists into a JSON file",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanistillhere/Spot2MP3.git"
+  },
+  "keywords": [
+    "spotifiy",
+    "music",
+    "mp3",
+    "converter"
+  ],
+  "author": "vaniwooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanistillhere/Spot2MP3/issues"
+  },
+  "homepage": "https://github.com/vanistillhere/Spot2MP3#readme"
+}
