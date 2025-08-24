@@ -1,2 +1,2 @@
 # Spot2MP3
-Converts Spotify playlists into a JSON File.
+woohoooo spotify to mp3 conerter yahh
